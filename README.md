@@ -1,61 +1,49 @@
 # Yashaswini Reddy K R
 
-**Business & Data Analyst** · Boston → Los Angeles  
-3+ years delivering analytics at scale across retail, healthcare, and supply chain.  
-$30M+ in fraud recovery. 75%+ forecasting accuracy improvements. 94% fraud detection optimization.
+**Business & Data Analyst** — I build analytics that drive decisions, not just reports.
 
-📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/yashaswinireddy-kr/) &nbsp;|&nbsp; 💼 Open to opportunities
+3+ years across retail, healthcare, and supply chain. Currently at TwinMed LLC building demand forecasting infrastructure at enterprise scale.
 
----
-
-## What I Do
-
-I sit at the intersection of business strategy and technical execution — translating ambiguous problems into structured analytical frameworks, predictive models, and dashboards that drive real decisions.
-
-From architecting demand forecasting engines on millions of records to deploying NLP models on 800K+ user comments, I build analytics that scale — and communicate findings in a way that moves leadership to act.
-
-**Currently:** Business Data Analyst II at TwinMed LLC, building forecasting infrastructure and KPI systems for pricing and demand planning at enterprise scale.
+📍 Los Angeles, CA &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashaswinireddy-kr/) &nbsp;·&nbsp; Open to opportunities
 
 ---
 
-## Core Skills
+## What I've shipped
 
-**Languages & Querying**
-`Python` `R` `SQL` `Advanced Excel`
-
-**Machine Learning & Modeling**
-`Predictive Modeling` `Classification` `Regression` `NLP` `Time Series Forecasting` `A/B Testing` `Hypothesis Testing`
-
-**Visualization & BI**
-`Tableau` `Power BI` `Streamlit` `Matplotlib` `Seaborn` `ggplot2` `Qlik`
-
-**Cloud & Data Infrastructure**
-`AWS Redshift` `BigQuery` `Snowflake` `SQL Server` `Oracle` `SAS`
-
-**Process & Workflow**
-`JIRA` `Confluence` `Alteryx` `n8n` `Agile/Scrum` `Lucidchart`
+- 🏥 **$30M+** in fraud recovery via predictive modeling on 24M+ transaction records
+- 📦 **75%** improvement in demand forecasting accuracy at TwinMed
+- 🤖 **94%** fraud detection optimization using NLP on 800K+ user comments
+- ⚡ **83–90%** reduction in manual reporting effort through pipeline automation
 
 ---
 
-## Featured Projects
+## Stack
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [Franklin Sports — Amazon Replenishment Analytics](https://github.com/yashaswinireddykr/Franklin-Sports-Amazon-Replenishment-Analytics) | Inventory forecasting and replenishment optimization for a national sporting goods brand on Amazon | Python, Pandas, Matplotlib |
-| [Used Car Pricing Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization) | Multi-brand ML price prediction engine across 98K+ listings with a live Streamlit web app | Python, scikit-learn, Streamlit |
-| [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability) | ESG risk clustering and greenwashing detection for 400+ S&P 500 companies using PCA and KMeans | Python, Tableau, scikit-learn |
-| [Ledge Brewery — Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-) | Revenue forecasting correlating weather and event data to optimize artist scheduling and venue ROI | Python, R, Excel |
-| [Boston Metro Apparel — Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis) | Gross margin driver analysis using ANOVA and multivariate regression across 10K+ transactions | R, ggplot2 |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
-## Certifications
+## Projects
 
-🏅 Google Data Analytics &nbsp;|&nbsp; 🏅 Microsoft Business Analyst  
-🏅 AWS Cloud Practitioner &nbsp;|&nbsp; 🏅 Six Sigma
+| | Project | Stack |
+|-|---------|-------|
+| 🏭 | [Franklin Sports — Amazon Replenishment Analytics](https://github.com/yashaswinireddykr/Franklin-Sports-Amazon-Replenishment-Analytics) | Python |
+| 🚗 | [Used Car Pricing Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization) | Python · Streamlit |
+| 🌱 | [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability) | Python · Tableau |
+| 🍺 | [Ledge Brewery — Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-) | Python · R |
+| 👗 | [Boston Metro Apparel — Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis) | R |
 
+---
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashaswinireddykr&show_icons=true&hide_border=true&theme=default&hide_rank=true)
 <!--
 **yashaswinireddykr/yashaswinireddykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

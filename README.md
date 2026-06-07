@@ -86,20 +86,11 @@ End-to-end retail analytics — data cleaning, ANOVA hypothesis testing, and mul
 
 <div align="center">
 
-![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_Business_Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Six Sigma](https://img.shields.io/badge/Six_Sigma-000000?style=flat-square&logoColor=white)
+🥇 &nbsp;Google Data Analytics &nbsp;&nbsp;🥇 &nbsp;Microsoft Business Analyst &nbsp;&nbsp;🥇 &nbsp;AWS Cloud Practitioner &nbsp;&nbsp;🥇 &nbsp;Six Sigma
 
 </div>
 
 ---
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashaswinireddykr.yashaswinireddykr)
-
-<div align="center">
 
 *"Good analysis changes how people think. Great analysis changes what they do."*
 

@@ -2,7 +2,7 @@
 
 # Yashaswini Reddy K R
 
-*I don't just analyze data — I build systems that make businesses smarter.*
+*I don't just analyze data - I build systems that make businesses smarter.*
 
 **Business & Data Analyst** · 3+ years · Retail · Healthcare · Supply Chain
 

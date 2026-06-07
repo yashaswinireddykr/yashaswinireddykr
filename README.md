@@ -54,9 +54,7 @@ From architecting demand forecasting engines on millions of records to deploying
 🏅 Google Data Analytics &nbsp;|&nbsp; 🏅 Microsoft Business Analyst  
 🏅 AWS Cloud Practitioner &nbsp;|&nbsp; 🏅 Six Sigma
 
----
 
-![Yashaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashaswinireddykr&show_icons=true&hide_border=true&theme=default)
 
 <!--
 **yashaswinireddykr/yashaswinireddykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

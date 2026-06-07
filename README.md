@@ -1,19 +1,54 @@
 # Yashaswini Reddy K R
 
-**Business & Data Analyst** — I build analytics that drive decisions, not just reports.
+> *I don't just analyze data — I build systems that make businesses smarter.*
 
-3+ years across retail, healthcare, and supply chain. Currently at TwinMed LLC building demand forecasting infrastructure at enterprise scale.
+**Business & Data Analyst** · 3+ years · Retail · Healthcare · Supply Chain  
+Currently at **TwinMed LLC** — building enterprise-scale forecasting infrastructure in production.
 
-📍 Los Angeles, CA &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashaswinireddy-kr/) &nbsp;·&nbsp; Open to opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswinireddy-kr/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashaswinireddy714@gmail.com)
+&nbsp;&nbsp;🟢 Open to opportunities · Los Angeles, CA
 
 ---
 
-## What I've shipped
+## Impact at a glance
 
-- 🏥 **$30M+** in fraud recovery via predictive modeling on 24M+ transaction records
-- 📦 **75%** improvement in demand forecasting accuracy at TwinMed
-- 🤖 **94%** fraud detection optimization using NLP on 800K+ user comments
-- ⚡ **83–90%** reduction in manual reporting effort through pipeline automation
+```
+$30M+   fraud recovered · predictive modeling on 24M+ payment transactions
+75%   demand forecasting accuracy improvement · millions of product records
+94%   fraud detection optimization · NLP classification on 800K+ user comments  
+90%   reduction in manual reporting · automated ETL and KPI pipelines
+92%   forecasting accuracy improvement · regression models across 15K+ transactions
+```
+
+---
+
+## How I work
+
+I sit at the intersection of **business strategy and technical execution** — taking ambiguous problems, structuring them analytically, and delivering solutions that stakeholders actually use.
+
+What sets me apart is how I **embed AI and automation into every layer of my work** — from using LLMs to accelerate exploratory analysis and documentation, to building automated pipelines that eliminate manual reporting entirely. I treat AI as a force multiplier: faster iteration, cleaner outputs, more time spent on what actually moves the needle.
+
+I've shipped across the full stack — SQL forecasting engines on BigQuery and Snowflake, Python ML pipelines, R statistical models, Streamlit web apps, and executive-facing Tableau and Power BI dashboards — always with a focus on adoption, not just accuracy.
+
+---
+
+## Featured Projects
+
+**🏭 [Franklin Sports — Amazon Replenishment Analytics](https://github.com/yashaswinireddykr/Franklin-Sports-Amazon-Replenishment-Analytics)**  
+Inventory forecasting and replenishment optimization for a national sporting goods brand. Modular Python pipeline with full EDA and visual analysis — built under NDA with masked production data.
+
+**🚗 [Used Car Pricing Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization)**  
+Multi-brand ML pricing engine across 98K+ listings — brand-specific model selection (Random Forest, Decision Tree, Linear Regression) with a live Streamlit app for real-time price prediction.
+
+**🌱 [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability)**  
+PCA + KMeans clustering on 400+ S&P 500 companies to detect greenwashing signals, sector-level ESG risk concentration, and hidden vendor dependencies. Four executive Tableau dashboards.
+
+**🍺 [Ledge Brewery — Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-)**  
+Revenue forecasting model on 49K+ records correlating weather patterns and entertainment programming to optimize artist scheduling and maximize venue ROI.
+
+**👗 [Boston Metro Apparel — Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis)**  
+End-to-end retail analytics — data cleaning, ANOVA hypothesis testing, and multivariate regression (R² = 0.73) to identify gross margin drivers across seasons, categories, and price points.
 
 ---
 
@@ -27,34 +62,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
-## Projects
-
-| | Project | Stack |
-|-|---------|-------|
-| 🏭 | [Franklin Sports — Amazon Replenishment Analytics](https://github.com/yashaswinireddykr/Franklin-Sports-Amazon-Replenishment-Analytics) | Python |
-| 🚗 | [Used Car Pricing Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization) | Python · Streamlit |
-| 🌱 | [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability) | Python · Tableau |
-| 🍺 | [Ledge Brewery — Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-) | Python · R |
-| 👗 | [Boston Metro Apparel — Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis) | R |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashaswinireddykr&show_icons=true&hide_border=true&theme=default&hide_rank=true)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashaswinireddykr&show_icons=true&hide_border=true&theme=default&hide_rank=true)
-<!--
-**yashaswinireddykr/yashaswinireddykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Good analysis changes how people think. Great analysis changes what they do."*

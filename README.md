@@ -91,7 +91,8 @@ End-to-end retail analytics — data cleaning, ANOVA hypothesis testing, and mul
 </div>
 
 ---
-
+<div align="center">
+  
 *"Good analysis changes how people think. Great analysis changes what they do."*
 
 </div>

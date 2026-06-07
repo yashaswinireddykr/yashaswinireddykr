@@ -1,25 +1,37 @@
+<div align="center">
+
 # Yashaswini Reddy K R
 
-> *I don't just analyze data — I build systems that make businesses smarter.*
+*I don't just analyze data — I build systems that make businesses smarter.*
 
-**Business & Data Analyst** · 3+ years · Retail · Healthcare · Supply Chain  
+**Business & Data Analyst** · 3+ years · Retail · Healthcare · Supply Chain
+
 Currently at **TwinMed LLC** — building enterprise-scale forecasting infrastructure in production.
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswinireddy-kr/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashaswinireddy714@gmail.com)
-&nbsp;&nbsp;🟢 Open to opportunities · Los Angeles, CA
+
+🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; Los Angeles, CA &nbsp;·&nbsp; Open to relocation
+
+</div>
 
 ---
 
+<div align="center">
+
 ## Impact at a glance
 
-```
-$30M+   fraud recovered · predictive modeling on 24M+ payment transactions
-75%   demand forecasting accuracy improvement · millions of product records
-94%   fraud detection optimization · NLP classification on 800K+ user comments  
-90%   reduction in manual reporting · automated ETL and KPI pipelines
-92%   forecasting accuracy improvement · regression models across 15K+ transactions
-```
+| | |
+|---|---|
+| 💰 **$30M+** | Fraud recovered · predictive modeling on 24M+ payment transactions |
+| 📈 **75%** | Demand forecasting accuracy improvement · millions of product records |
+| 🎯 **94%** | Fraud detection optimization · NLP classification on 800K+ user comments |
+| ⚡ **90%** | Reduction in manual reporting · automated ETL and KPI pipelines |
+| 🔍 **92%** | Forecasting accuracy improvement · regression models across 15K+ transactions |
+
+</div>
 
 ---
 
@@ -54,6 +66,8 @@ End-to-end retail analytics — data cleaning, ANOVA hypothesis testing, and mul
 
 ## Stack
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,10 +79,12 @@ End-to-end retail analytics — data cleaning, ANOVA hypothesis testing, and mul
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashaswinireddykr&show_icons=true&hide_border=true&theme=default&hide_rank=true)
+</div>
 
 ---
+
+<div align="center">
 
 *"Good analysis changes how people think. Great analysis changes what they do."*
+
+</div>

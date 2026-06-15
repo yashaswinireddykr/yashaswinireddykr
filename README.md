@@ -41,26 +41,26 @@ I sit at the intersection of **business strategy and technical execution** - tak
 
 What sets me apart is how I **embed AI and automation into every layer of my work** - from using LLMs to accelerate exploratory analysis and documentation, to building automated pipelines that eliminate manual reporting entirely. I treat AI as a force multiplier: faster iteration, cleaner outputs, more time spent on what actually moves the needle.
 
-I've shipped across the full stack - SQL forecasting engines on BigQuery and Snowflake, Python ML pipelines, R statistical models, Streamlit web apps, and executive-facing Tableau and Power BI dashboards — always with a focus on adoption, not just accuracy.
+I've shipped across the full stack - SQL forecasting engines on BigQuery and Snowflake, Python ML pipelines, R statistical models, Streamlit web apps, and executive-facing Tableau and Power BI dashboards - always with a focus on adoption, not just accuracy.
 
 ---
 
 ## Featured Projects
 
-**🏭 [Franklin Sports — Amazon Replenishment Analytics](https://github.com/yashaswinireddykr/Franklin-Sports-Amazon-Replenishment-Analytics)**  
-Inventory forecasting and replenishment optimization for a national sporting goods brand. Modular Python pipeline with full EDA and visual analysis — built under NDA with masked production data.
+**🏭 [Franklin Sports - Amazon Replenishment Analytics](https://github.com/yashaswinireddykr/Franklin-Sports-Amazon-Replenishment-Analytics)**  
+Inventory forecasting and replenishment optimization for a national sporting goods brand. Modular Python pipeline with full EDA and visual analysis - built under NDA with masked production data.
 
 **🚗 [Used Car Pricing Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization)**  
-Multi-brand ML pricing engine across 98K+ listings — brand-specific model selection (Random Forest, Decision Tree, Linear Regression) with a live Streamlit app for real-time price prediction.
+Multi-brand ML pricing engine across 98K+ listings - brand-specific model selection (Random Forest, Decision Tree, Linear Regression) with a live Streamlit app for real-time price prediction.
 
 **🌱 [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability)**  
 PCA + KMeans clustering on 400+ S&P 500 companies to detect greenwashing signals, sector-level ESG risk concentration, and hidden vendor dependencies. Four executive Tableau dashboards.
 
-**🍺 [Ledge Brewery — Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-)**  
+**🍺 [Ledge Brewery - Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-)**  
 Revenue forecasting model on 49K+ records correlating weather patterns and entertainment programming to optimize artist scheduling and maximize venue ROI.
 
-**👗 [Boston Metro Apparel — Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis)**  
-End-to-end retail analytics — data cleaning, ANOVA hypothesis testing, and multivariate regression (R² = 0.73) to identify gross margin drivers across seasons, categories, and price points.
+**👗 [Boston Metro Apparel - Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis)**  
+End-to-end retail analytics - data cleaning, ANOVA hypothesis testing, and multivariate regression (R² = 0.73) to identify gross margin drivers across seasons, categories, and price points.
 
 ---
 

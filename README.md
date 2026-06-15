@@ -37,11 +37,11 @@ Currently at **TwinMed LLC** — building enterprise-scale forecasting infrastru
 
 ## How I work
 
-I sit at the intersection of **business strategy and technical execution** — taking ambiguous problems, structuring them analytically, and delivering solutions that stakeholders actually use.
+I sit at the intersection of **business strategy and technical execution** - taking ambiguous problems, structuring them analytically, and delivering solutions that stakeholders actually use.
 
-What sets me apart is how I **embed AI and automation into every layer of my work** — from using LLMs to accelerate exploratory analysis and documentation, to building automated pipelines that eliminate manual reporting entirely. I treat AI as a force multiplier: faster iteration, cleaner outputs, more time spent on what actually moves the needle.
+What sets me apart is how I **embed AI and automation into every layer of my work** - from using LLMs to accelerate exploratory analysis and documentation, to building automated pipelines that eliminate manual reporting entirely. I treat AI as a force multiplier: faster iteration, cleaner outputs, more time spent on what actually moves the needle.
 
-I've shipped across the full stack — SQL forecasting engines on BigQuery and Snowflake, Python ML pipelines, R statistical models, Streamlit web apps, and executive-facing Tableau and Power BI dashboards — always with a focus on adoption, not just accuracy.
+I've shipped across the full stack - SQL forecasting engines on BigQuery and Snowflake, Python ML pipelines, R statistical models, Streamlit web apps, and executive-facing Tableau and Power BI dashboards — always with a focus on adoption, not just accuracy.
 
 ---
 

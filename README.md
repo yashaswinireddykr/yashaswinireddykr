@@ -53,11 +53,11 @@ Inventory forecasting and replenishment optimization for a national sporting goo
 **🚗 [Used Car Pricing Optimization](https://github.com/yashaswinireddykr/Used-Car-Pricing-Optimization)**  
 Multi-brand ML pricing engine across 98K+ listings - brand-specific model selection (Random Forest, Decision Tree, Linear Regression) with a live Streamlit app for real-time price prediction.
 
-**🌱 [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability)**  
-PCA + KMeans clustering on 400+ S&P 500 companies to detect greenwashing signals, sector-level ESG risk concentration, and hidden vendor dependencies. Four executive Tableau dashboards.
-
 **🍺 [Ledge Brewery - Revenue Modeling](https://github.com/yashaswinireddykr/Ledge-Brewery-Revenue-Modeling-)**  
 Revenue forecasting model on 49K+ records correlating weather patterns and entertainment programming to optimize artist scheduling and maximize venue ROI.
+
+**🌱 [ESG Transparency & Accountability](https://github.com/yashaswinireddykr/ESG-Transparency-Accountability)**  
+PCA + KMeans clustering on 400+ S&P 500 companies to detect greenwashing signals, sector-level ESG risk concentration, and hidden vendor dependencies. Four executive Tableau dashboards.
 
 **👗 [Boston Metro Apparel - Retail Profitability](https://github.com/yashaswinireddykr/Boston-Metro-Apparel-Retail-Profitability-Customer-Satisfaction-Analysis)**  
 End-to-end retail analytics - data cleaning, ANOVA hypothesis testing, and multivariate regression (R² = 0.73) to identify gross margin drivers across seasons, categories, and price points.
